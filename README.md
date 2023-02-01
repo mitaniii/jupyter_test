@@ -37,3 +37,8 @@ touch .gitignore
 git add .
 git commit -m "XXXX"
 ```
+
+5. リモートにプッシュ
+```
+git push origin master
+```
