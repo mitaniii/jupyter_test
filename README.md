@@ -42,3 +42,6 @@ git commit -m "XXXX"
 ```
 git push origin master
 ```
+6. リモートからプル(変更をローカルに反映させる)
+
+7. 
