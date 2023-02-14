@@ -6,3 +6,6 @@ for arg in sys.argv[1:]:
         sum += int(arg)
 
 print(sum)
+
+sys.stderr.write("erroe")
+sys.exit(1)
